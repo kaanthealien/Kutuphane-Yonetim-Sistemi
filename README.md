@@ -1,4 +1,4 @@
-# C--
+# Kütüphane Yönetim Sistemi
 Kütüphane YTS
 Grafiksel Kullanıcı Arayüzüne sahip olarak tasarladığım bu proje belli bir veri tabanına bağlı kalarak; kitap ekle,sil,ödünç işlemleri vs gibi fonksiyonları da içermektedir ve aynı zamanda admin paneline da sahiptir.
 
