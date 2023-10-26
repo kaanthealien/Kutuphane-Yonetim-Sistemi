@@ -1,0 +1,11 @@
+D:\Projects\Kütüphane Otomasyon Sistemi\Kütüphane Yönetim Sistemi.exe
+D:\Projects\Kütüphane Otomasyon Sistemi\Kütüphane Yönetim Sistemi.dll
+D:\Projects\Kütüphane Otomasyon Sistemi\Kütüphane Yönetim Sistemi.deps.json
+D:\Projects\Kütüphane Otomasyon Sistemi\Kütüphane Yönetim Sistemi.runtimeconfig.json
+D:\Projects\Kütüphane Otomasyon Sistemi\Kütüphane Yönetim Sistemi.pdb
+D:\Projects\Kütüphane Otomasyon Sistemi\System.Data.SqlClient.dll
+D:\Projects\Kütüphane Otomasyon Sistemi\runtimes\win-arm64\native\sni.dll
+D:\Projects\Kütüphane Otomasyon Sistemi\runtimes\win-x64\native\sni.dll
+D:\Projects\Kütüphane Otomasyon Sistemi\runtimes\win-x86\native\sni.dll
+D:\Projects\Kütüphane Otomasyon Sistemi\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Kütüphane Otomasyon Sistemi\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

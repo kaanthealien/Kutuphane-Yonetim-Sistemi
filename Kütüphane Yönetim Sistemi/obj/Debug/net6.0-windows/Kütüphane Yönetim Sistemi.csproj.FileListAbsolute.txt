@@ -1,0 +1,26 @@
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.exe
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.deps.json
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.runtimeconfig.json
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.dll
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.pdb
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.csproj.AssemblyReference.cache
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.csproj.GenerateResource.cache
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.AssemblyInfoInputs.cache
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.AssemblyInfo.cs
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.csproj.CoreCompileInputs.cache
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.dll
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\refint\Kütüphane Yönetim Sistemi.dll
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.pdb
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.genruntimeconfig.cache
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\ref\Kütüphane Yönetim Sistemi.dll
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane_Yönetim_Sistemi.Properties.Resources.resources
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane Yönetim Sistemi.csproj.CopyComplete
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane_Yönetim_Sistemi.FormGiris.resources
+D:\VS\Serbest Çalışmalar C#\Kütüphane Yönetim Sistemi\obj\Debug\net6.0-windows\Kütüphane_Yönetim_Sistemi.FormKitaplar.resources
